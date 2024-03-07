@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G.V ACHARYA FINGERPRINT NOTES APP</string>
+    <string name="use_your_fingerprint_to_login">Use your fingerprint to login</string>
+    <string name="login">Login</string>
+    <string name="developed_by_rishi_vaibhav_aditya_fadi_avdut">DEVELOPED BY RISHI, VAIBHAV, ADITYA, FADI, AVDUT</string>
+    <string name="todo">TODO</string>
+</resources>
